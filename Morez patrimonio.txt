@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patrimonio de la gafa en Morez</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>El Patrimonio de las Gafas en el pueblo de Morez (Francia)</h1>
+    </header>
+    <section class="intro">
+        <p>En el marco de la asignatura "patrimonio cultural" teníamos que presentar el patrimonio de nuestro pueblo/ciudad. Así que presenté el patrimonio cultural de Morez un pequeño pueblo francés de 5.000 habitantes. Es especialmente famosa por ser la capital de la gafa ya que es en este pueblo que nació la gafa en 1796 gracias a Pierre-Hyacinthe Caseaux.</p>
+        <a href="http://www.musee-lunette.fr/fr" class="button">Museo de la Gafa de Morez</a>
+    </section>
+    <section class="gallery">
+        <h2>Fotos de la evolución de las gafas de Morez</h2>
+        <div class="photo-container">
+            <img src="https://www.vma.asso.fr/wp-content/uploads/2017/11/2D7_0766_museedelalunette-1024x681.jpg" alt="Una de las Primeras Gafas">
+            <img
+src="https://www.francetvinfo.fr/pictures/Cc4MvMgkZUes_xhDXLPZ7E-4dHE/432x243/2016/11/15/phpdyb1gc_1.jpg" alt="Fabrica de gafas en Morez">
+        </div>
+    </section>
+    <section class="contact">
+        <h2>Mi correo electrónico</h2>
+        <p>Email: <a href="mailto:laurynelr7.ramalho@gmail.com">laurynelr7.ramalho@gmail.com</a></p>
+    </section>
+    <footer class="footer">
+        <p>© 2024 Créé par Lauryne Mesquita Ramalho</p>
+    </footer>
+</body>
+</html>
